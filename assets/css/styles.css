@@ -107,7 +107,9 @@ sup {
 }
 
 img {
-    border-style: none
+    border-style: none;
+    display: block;
+    margin: auto;
 }
 @media print {
 	img { max-width: 100%; }
@@ -995,7 +997,7 @@ textarea {
     }
     .start-lg {
         -ms-flex-pack: start;
-        -webkit-box-pack: start;
+        -webkit-box-pack: start;	 
         justify-content: flex-start;
         text-align: start
     }
