@@ -56,8 +56,15 @@ education:
       details: |
         Full-time MSc focusing on Machine Learning, Data Analysis and Computer Vision.
         First Term Subjects:
-          - Bullet point
-          - Bullet point
+          - Mathematics for Machine Learning, Medical Image Computing, Dynamical Systems and Deep Learning,
+            Reinforcement Learning, Prolog
+        Second Term Subjects:
+          - Computational Finance, Data Analysis and Probabilistic Inference, Logic-Based Learning,
+            Probabilistic Model Checking and Analysis
+        Independent Study Option:
+          Capsule Networks
+        MSc. Individual Project:
+          Deep Continual Learning
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
