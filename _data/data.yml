@@ -40,7 +40,6 @@ sidebar:
     #   - item: Cooking
     #     link:
 
-
 career-profile:
     title: Career Profile
     summary: |
@@ -48,7 +47,7 @@ career-profile:
       qualification in Advanced Computing from Imperial College London seeking
       a position within the UK. Advanced knowledge in the field of Machine
       Learning, Qualitative Computing and Computer Vision. Seeking to leverage
-      solid skills in research and development. 
+      solid skills in research and development.
 
 education:
     - degree: MSc in Advanced Computing
