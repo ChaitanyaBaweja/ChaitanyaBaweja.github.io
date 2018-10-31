@@ -72,8 +72,7 @@ education:
     - degree: B.Tech in Computer Science
       university: University of Delhi
       time: 2013 - 2017
-      details: |
-
+      details: |+
         92.41% overall, University topper in the first year, top 0.1 percentile
         Relevant Coursework:
           - Programming Fundamentals, Computer System Architecture, Linear Algebra, Data Structures,
@@ -83,6 +82,7 @@ education:
             Theory of Computation, Computer Graphics, Mathematical Physics, Microprocessor, Compiler Design,
             Network Programming, Artificial Intelligence, Information Security, Web Technology, Mobile
             Application on Android
+
         Final Project
           - Application of Artificial Neural Networks for Time Series Forecasting
 
@@ -90,7 +90,6 @@ education:
       university: The Air Force School, CBSE
       time: 2013
       details: |
-
         94.75%(Best of four) subjects, School Computer Science Topper
 
 
