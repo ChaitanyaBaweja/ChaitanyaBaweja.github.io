@@ -66,18 +66,30 @@ education:
         MSc. Individual Project:
           - Deep Continual Learning
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: B.Tech in Computer Science
+      university: University of Delhi
+      time: 2013 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+        92.41% overall, University topper in the first year, top 0.1 percentile
+        Relevant Coursework:
+          - Programming Fundamentals, Computer System Architecture, Linear Algebra, Data Structures,
+            Operating Systems, Data Communications and Computer Networks, Discrete Structures,
+            Numerical Methods, Design and Analysis of Algorithms, Software Engineering, Database Systems,
+            Operational Research and Linear Programming, Probability Theory and Statistical Computing,
+            Theory of Computation, Computer Graphics, Mathematical Physics, Microprocessor, Compiler Design,
+            Network Programming, Artificial Intelligence, Information Security, Web Technology, Mobile
+            Application on Android
+        Final Project
+          - Application of Artificial Neural Networks for Time Series Forecasting
+
+    - degree: All India Secondary School Examination
+      university: The Air Force School, CBSE
+      time: 2013
+      details: |
+
+        94.75%(Best of four) subjects, School Computer Science Topper
+
 
 experiences:
     - role: Lead Developer
