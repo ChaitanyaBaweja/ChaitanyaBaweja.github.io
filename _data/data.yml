@@ -58,11 +58,14 @@ education:
         First Term Subjects:
           - Mathematics for Machine Learning, Medical Image Computing, Dynamical Systems and Deep Learning,
             Reinforcement Learning, Prolog
+
         Second Term Subjects:
           - Computational Finance, Data Analysis and Probabilistic Inference, Logic-Based Learning,
             Probabilistic Model Checking and Analysis
+
         Independent Study Option:
           - Capsule Networks
+          
         MSc. Individual Project:
           - Deep Continual Learning
 
