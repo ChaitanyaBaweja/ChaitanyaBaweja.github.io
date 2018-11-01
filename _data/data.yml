@@ -64,10 +64,10 @@ education:
             Probabilistic Model Checking and Analysis
 
         Independent Study Option:
-          - Capsule Networks
+          - Capsule Networks: A Novel Approach to Deep Learning
 
         MSc. Individual Project:
-          - Deep Continual Learning
+          - Deep Continual Learning : Application in Biomedical Imaging
 
     - degree: B.Tech in Computer Science
       university: University of Delhi
@@ -94,35 +94,40 @@ education:
 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Assistant
+      time: May 2018 - June 2018
+      company: The London School of Economics (LSE)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Worked on a Python code, which numerically solved an economic model of
+        an auction market.
+        - Main role was to optimize the code so that the market can be simulated smoothly
+        - Explored various function approximations like Gaussian processes, and optimized the
+        code to run near about 10x faster.
+        - Implemented OOP to make the code modular and structured
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Research Trainee
+      time: June 2014 - August 2014
+      company: Defense Research and Development Organization, New Delhi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+      Mentored by Dr. Sumanth Mukherji, Scientist 'F', ISSA, DRDO
+        - Gathered Information and identified problems regarding existing consensus algorithms.
+        - Implemented an efficient consensus protocol that reduced average overhead involved
+          where nodes send more messages when they have large differences in their estimated, and
+          reduce their message sending rate when the consensus is almost reached.
+        - A MATLAB simulation was also developed for simulation.
 
-          - Bullet point
-          - Bullet point
+    - role: Research Fellow
+      time: July 2015 - December 2016
+      company: University of Delhi
+      details: |
+      Delhi University Research Project, "Innovations towards a Sustainable World and
+      Impact of the Air Quality Crisis"
+        - Designed a portable air pollution measuring device(OpenVayu)
+        - A user friendly pollution checking mobile application (Android)
+        - Data Collection and Cleaning of Lung Capacity tests conducted on 1000 students
+          from Delhi NCR region
+        - Research on CO2 sensor published in IJARCSSE (ISSN - 2277 128X)
+
 
     - role: UI Developer
       time: 2012 - 2014
