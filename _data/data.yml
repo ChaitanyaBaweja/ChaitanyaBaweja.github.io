@@ -152,9 +152,12 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Deep Continual Learning - Application in BioMedical Imaging:
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Augmented an existing open source framework popular for biomedical
+        image segmentation, DeepMedic with features for training on multiple tasks
+        (choice of fine-tuning, L2  or EWC). All can be done using simple command
+        line arguments.."
 
       - title: DevStudio
         link: "#"
