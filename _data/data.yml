@@ -152,7 +152,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Deep Continual Learning - Application in BioMedical Imaging:
+      - title: Deep Continual Learning - Application in BioMedical Imaging
         link: "#hook"
         tagline: "Augmented an existing open source framework popular for biomedical
         image segmentation, DeepMedic with features for training on multiple tasks
