@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Chaitanya Baweja
     tagline: MSc. Advanced Computing Student at Imperial College London
-    avatar: chaitanya_pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: cb5117@ic.ac.uk
@@ -153,67 +153,54 @@ projects:
 
     assignments:
       - title: Deep Continual Learning - Application in BioMedical Imaging
-        link: "https://www.youtube.com/watch?v=QeAy488CcC8"
+        link: "https://github.com/ChaitanyaBaweja/deepmedic"
         tagline: "Augmented an existing open source framework for biomedical
         image segmentation, DeepMedic with features for training on multiple tasks."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: BlackCloud
+        link: "https://github.com/ChaitanyaBaweja/BlackCloud"
+        tagline: "An open-source technology for citizens political participation
+        in smart cities to encourage personal and community pollution monitoring."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: OpenVayu Analysis & Forecasting Toolkit
+        link: "https://github.com/OpenVayu/OpenVayu-Excel-Toolkit"
+        tagline: "An Open Source Toolkit for Excel created using VBA programming
+        to help solve many recurring problems in Data Analysis and Forecasting
+        and makes Excel an even more powerful software."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Towards continual learning in medical imaging"
+        authors: Baweja C, Kamnitsas K, Glocker B.
+        conference: MedNIPS 2018
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Influence of Temperature and Humidity on the Output Resistance Ratio of the MQ-135 Sensor"
+        authors: Baweja C, Kalra V.
+        conference: "International Journal of Advanced Research in Computer Science and Software Engineering"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & C/C++
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: SQL
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Java and Javacript
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: Matlab
+        level: 85%
+
+      - name: Android Development
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
